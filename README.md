@@ -1,10 +1,6 @@
 <div align="center">
 
-<a href="https://ivanshehav.github.io"><img src="assets/banner.svg" alt="Иван Шехавцов, AI-продукты и автоматизация" width="100%"></a>
-
-<a href="https://ivanshehav.github.io"><img src="https://img.shields.io/badge/Интерактивное_резюме-ivanshehav.github.io-2F6FE4?style=for-the-badge&logo=githubpages&logoColor=white" alt="Сайт-резюме"></a>
-<a href="https://t.me/ivan_t_o_p"><img src="https://img.shields.io/badge/Telegram-@ivan__t__o__p-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-<a href="mailto:ishehav@mail.ru"><img src="https://img.shields.io/badge/Почта-ishehav@mail.ru-0C1F36?style=for-the-badge&logo=maildotru&logoColor=white" alt="Почта"></a>
+<a href="https://ivanshehav.github.io"><img src="assets/banner.svg" alt="Иван Шехавцов, продуктовый и системный аналитик" width="100%"></a>
 
 </div>
 
@@ -12,27 +8,25 @@
 
 ### Обо мне
 
-- Студент ИТ-специалитета Университета «Сириус» с 2024 года, на втором направлении учусь в Финансовом университете с 2026 года.
-- Беру задачу от сырой идеи и интервью до прототипа, архитектуры и запуска. Лучше всего чувствую себя на стыке AI, аналитики и управления командой.
-- Сейчас делаю AI-инструменты для медицинского центра и веду проекты с командами до семи человек.
-- Цель: магистратура за рубежом и свой продукт для продавцов маркетплейсов.
-- Открыт к стажировкам, проектам и интересным задачам. Быстрее всего отвечаю в Telegram.
+Студент университета «Сириус». Также учусь в Финансовом университете, направление «Прикладные информационные системы в экономике и финансах».
+
+**Сферы интересов:** агенты, ИИ-системы, финтех, ML, автоматизация бизнес-процессов.
 
 ---
 
 ### Проекты
 
-Каждый проект на [сайте-резюме](https://ivanshehav.github.io) открывается в мини-окне с живым демо.
+Каждый проект на [сайте-резюме](https://ivanshehav.github.io) открывается в мини-окне с коротким описанием и демо.
 
 | Проект | О чем | Демо |
 | --- | --- | --- |
 | Виртуальный пациент | Симулятор клинического мышления: студент-медик говорит с LLM в роли пациента. Тимлид и аналитик | [открыть](https://ivanshehav.github.io/#p-patient) |
 | Тренажер диспетчера 112 | Рабочее место, где новичок учится принимать решения по вызовам. Хакатон ЛЦТ 2026 | [открыть](https://ivanshehav.github.io/#p-dispatcher) |
-| Альфа. Первый оборот | Стратегия для платежного бизнеса: как довести молодого предпринимателя до первого устойчивого оборота | [открыть](https://ivanshehav.github.io/#p-alfa) |
-| KIRODEN и TAIRO | Telegram-бот поддержки для покупателей маркетплейсов | [открыть](https://ivanshehav.github.io/#p-kiroden) |
-| DVAteam Onboarding | Сайт, который за пару часов проводит нового сотрудника от анкеты до выданных доступов | [открыть](https://ivanshehav.github.io/#p-onboarding) |
-| Гидрораспределительная плита | 3D-модель и чертеж в KOMPAS-3D, конкурс «Хайтек. Юниоры» | [открыть](https://ivanshehav.github.io/#p-hydroplate) |
-| Защищенная IT-инфраструктура | Сеть из четырех VLAN на Astra Linux, VMmanager и MikroTik | [открыть](https://ivanshehav.github.io/#p-infra) |
+| Аудит привлечения клиентов в Альфа-Бизнес | Конкурс «Альфа-Будущее»: консалтинговый кейс про привлечение новых клиентов | [открыть](https://ivanshehav.github.io/#p-alfa) |
+| Telegram-бот для бизнеса | Бот поддержки для покупателей маркетплейсов | [открыть](https://ivanshehav.github.io/#p-kiroden) |
+| Автоматизированная онбординг-платформа | Сайт, который за пару часов проводит нового сотрудника от анкеты до выданных доступов | [открыть](https://ivanshehav.github.io/#p-onboarding) |
+| Защищенная IT-инфраструктура | Сервера и сеть из четырех VLAN на Astra Linux, VMmanager и MikroTik | [открыть](https://ivanshehav.github.io/#p-infra) |
+| 3D-моделирование | Поезда, мост, тоннель и депо для VR-симулятора, деталь в KOMPAS-3D («Хайтек. Юниоры») | [открыть](https://ivanshehav.github.io/#p-vr3d) |
 
 ---
 
