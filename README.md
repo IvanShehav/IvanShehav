@@ -75,7 +75,7 @@
 
 - [finance_tracker](https://github.com/IvanShehav/finance_tracker): финансовый трекер на C++ с графиками и рынками
 - [Agents_system_for_YandexHack](https://github.com/IvanShehav/Agents_system_for_YandexHack): мультиагентная система, которая оценивает заявку на IT-проект и пишет технический план
-- [development-of-neural-networks](https://github.com/IvanShehav/development-of-neural-networks): нейросети
+- [Развитие нейронных сетей](https://github.com/IvanShehav/development-of-neural-networks): статья про нейросети
 - [vector_editor-pet-project-](https://github.com/IvanShehav/vector_editor-pet-project-): векторный редактор
 - [OnlineBank-on-Bash](https://github.com/IvanShehav/OnlineBank-on-Bash): учебный банк на Bash
 - [3D_Models](https://github.com/IvanShehav/3D_Models) и [Design_portfolio](https://github.com/IvanShehav/Design_portfolio): 3D и дизайн
