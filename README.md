@@ -82,4 +82,4 @@
 - [OnlineBank-on-Bash](https://github.com/IvanShehav/OnlineBank-on-Bash): учебный банк на Bash
 - [3D_Models](https://github.com/IvanShehav/3D_Models) и [Design_portfolio](https://github.com/IvanShehav/Design_portfolio): 3D и дизайн
 
-Командные проекты хакатона и стажировки лежат в репозиториях команд. Приватный код показываю по запросу.
+Командные проекты хакатона и стажировки лежат в репозиториях команд. Часть коммерческих проектов закрыта под NDA, их устройство описано на сайте.
